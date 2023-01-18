@@ -20,7 +20,7 @@ Click for video:
 
 Watch tutorial video:  09:40 - 27:00 
 
-<h4>Then, Proceed to update your web front end previously created in part 1</h4>
+<h4>Then, Proceed to update your web front end previously created in part 1 tutorial</h4>
 
 1 - Add "Components folder from this repo to your project.
 
